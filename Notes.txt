@@ -34,5 +34,4 @@ U-(Means Untraked)
     step2: git commit -m "Updated notes.txt"           
 
     step3: git push  (or) git push origin main
- 
- 
+
