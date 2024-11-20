@@ -37,3 +37,14 @@ U-(Means Untraked)
 
 4.changes in github to store in local use:
     git pull
+
+shortcut:
+1.GITHUB TO LOCAL COPY:
+    git clone "https://github.com/jlokesh1406/1.GITHUB.git"
+2.IF ANY CHANGES IN LOCAL THEN AFTER PUSH INTO GITHUB   
+    git add "filename"
+    git commit -m "Updated notes.txt"
+    git push  (or) git push origin main 
+3.IF ANY CHANGES IN GITHUB THEN AFTER PULL INTO LOCAL 
+    git pull
+4.
