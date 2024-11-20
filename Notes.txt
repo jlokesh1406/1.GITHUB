@@ -37,5 +37,8 @@ U-(Means Untraked)
 
 4.changes in github to store in local use:
     git pull
+
+4.changes in github to store in local use:
+    git pull
  
 
