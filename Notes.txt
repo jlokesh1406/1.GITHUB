@@ -28,11 +28,11 @@ Comments:
 3.if create new folders or file in local then put in to github use this comment(git add filename)
 U-(Means Untraked)
     
-    git add LOCAL_TO_GITHUB.txt  (U remove after the above comment)
-    git add .                    (adding more then one file)
+    step1: git add LOCAL_TO_GITHUB.txt  (U remove after the above comment)
+           git add .                    (adding more then one file)
 
-    git commit -m "Updated notes.txt"           
+    step2: git commit -m "Updated notes.txt"           
 
-    git push
-
+    step3: git push  (or) git push origin main
+ 
 
