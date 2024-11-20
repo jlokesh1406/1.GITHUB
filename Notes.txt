@@ -35,10 +35,7 @@ U-(Means Untraked)
 
     step3: git push  (or) git push origin main
 
-4.changes in github to store in local use:
+5.changes in github to store in local use:
     git pull
 
-4.changes in github to store in local use:
-    git pull
- 
 
